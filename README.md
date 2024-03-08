@@ -1,0 +1,2 @@
+# Sznikak
+Szoftvertechnikák hf, gyakok
